@@ -1,12 +1,6 @@
 #  Smart Ride Hailing System (C++)
 
-<p align="center">
-<img src="ride-hailing.png" width="100%">
-</p>
 
-<p align="center">
-  A Console-Based Ride Hailing Application Developed Using Object-Oriented Programming (OOP) Concepts in C++
-</p>
 
 ---
 
